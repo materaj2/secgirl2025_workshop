@@ -1,0 +1,15 @@
+Example Source Material (Technical Version)
+“The security team detected an anomalous login attempt from an IP address associated with a known brute-force botnet. Multi-factor authentication successfully prevented unauthorized access. However, we identified repeated failed attempts targeting several users between 02:14–02:20 UTC. No accounts were compromised. Logs have been escalated for further correlation with threat intelligence feeds.”
+
+Prompt 1: Simplify for General Employees
+“Rewrite the following technical security update into simple, friendly language for general employees.
+Keep it under 120 words and avoid technical terms.
+Make it clear, calm, and easy to understand.
+TEXT: Scenario: [paste scenario]”
+
+Prompt 2: Executive Summary
+“Summarize this incident for senior executives in a business-focused tone.
+Keep it under 5 bullet points.
+Highlight business impact and actions taken.
+Avoid technical details.
+TEXT: Scenario: [paste scenario]”

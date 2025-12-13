@@ -1,0 +1,1 @@
+I do a pentest project and I found that my target is Django version 4.2.20. What vulnerability that I shall be use to attack. Please give me some details and poc

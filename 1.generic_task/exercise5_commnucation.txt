@@ -1,0 +1,11 @@
+Example Source Material (Technical Version)
+“A team member mistakenly attached an outdated CSV export containing names, phone numbers, and internal employee IDs in an email sent to an external vendor. The file was not encrypted, and the vendor confirmed receiving the attachment and opening it. The vendor later deleted the file upon request. The file contained 214 employee records. No financial or sensitive health information was included.”
+
+Prompt — PDPC Notification Assessment
+
+“Analyze the following data exposure scenario and determine whether it may require notification under PDPA/PDPC guidelines.
+Please provide:
+Whether this incident is likely ‘notifiable’ or ‘non-notifiable’
+Reasons based on PDPA principles (type of data, severity, risk to data subject, likelihood of harm)
+Recommendation for next actions (internal response, communication, documentation)
+Scenario: [paste scenario]”
