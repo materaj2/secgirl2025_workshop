@@ -1,3 +1,8 @@
 Create Phishing Template
 
 “Generate a medium-intensity phishing email targeting a new employee in the HR department using an urgency tone. The lure should involve a required document update.”
+
+in HTML format
+
+
+And please review the phishing page with https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
