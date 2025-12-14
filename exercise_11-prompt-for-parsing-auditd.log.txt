@@ -1,0 +1,5 @@
+Please create Python script to parse auditd.log. I want to extract
+- time (Human read)
+- user
+- command
+- type of command
